@@ -172,6 +172,11 @@ body {
     color: white;
 }
 
+.btn-inicio{
+    color: #fff;
+    text-decoration: none;
+}
+
 .btn-primary {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border: none;
